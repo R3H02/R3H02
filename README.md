@@ -118,13 +118,13 @@ O projeto também trabalha com banco de dados e operações CRUD, permitindo cad
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=R3H02&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3H02&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=R3H02&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -134,7 +134,7 @@ O projeto também trabalha com banco de dados e operações CRUD, permitindo cad
 
 ---
 
-## 📫 Contato
+##  Contato
 
 
 
@@ -148,7 +148,7 @@ O projeto também trabalha com banco de dados e operações CRUD, permitindo cad
   <a href="mailto:renatoguiarsilva02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="[SEU PORTFOLIO]" target="_blank">
+  <a href="https://r3h02.github.io/portf-lio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
