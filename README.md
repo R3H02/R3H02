@@ -1,9 +1,22 @@
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C724B1&height=200&section=header&text=Renato%20Aguiar&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20%7C%20Estudante%20de%20ADS&descAlignY=65&descSize=18" width="100%">
+</p>
+
+
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:1a1a2e&height=200&section=header&text=Renato%20Aguiar&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20%7C%20Estudante%20de%20ADS&descAlignY=65&descSize=18" width="100%">
+</p> -->
+
+
+
 <h1 align="center">Olá, eu sou Renato</h1>
 
 <h3 align="center"> Desenvolvedor | Estudante de Tecnologia</h3>
 
 
-<p align="center"><img src="https://i.pinimg.com/736x/cd/ba/b5/cdbab594ae7780cbe2cc57cadfcd0555.jpg" width="300"></p>
+<p align="center"><img src="./images/teste3" width="300"></p>
 
 
 <p align="center">
